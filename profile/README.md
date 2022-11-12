@@ -6,4 +6,4 @@ Based on Archlinux
 🌈 Promoting Free and Equal education opportunities to all and freedom of choices.
 👩‍💻 Website - Coming Soon
 🍿 Easy to configure, maintain and install.
-🧙 Based on Archlinux - bleeding edge.
+🧙 Based on Archlinux

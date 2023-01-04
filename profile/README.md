@@ -14,6 +14,7 @@ Packages : `KDE-Minimal`
 Based on Archlinux
 ## Join the Community
 - [Discord](https://discord.gg/7Z8gf3kJXW)
+- [Telegram](https://telegram.dog/jimnilinux)
 ### Features
 🙋‍♀️ A free, open and distraction free linux distro built exclusively for Students.
 🌈 Promoting Free and Equal education opportunities to all and freedom of choices.

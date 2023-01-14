@@ -5,7 +5,7 @@ Expected Beta Release date : `24 June 2023`
 
 Package Managers : `pacman`, `yay` + Jimni Repositories
 
-Desktop Environments : `KDE (Default)`, `i3wm`, `MATE`, `XFCE`
+Desktop Environments : `KDE (Default)`, `i3-gaps`
 
 Display Managers : `LightDM (Default)`
 

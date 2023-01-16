@@ -1,5 +1,5 @@
 ## JimniLinux 
-A Linux Distribution for Students.
+A Linux Distribution for Students. <br>
 ![](https://komarev.com/ghpvc/?username=jimnilinux)
 
 

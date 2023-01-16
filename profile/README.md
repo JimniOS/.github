@@ -1,6 +1,8 @@
 ## JimniLinux 
 A Linux Distribution for Students.
 ![](https://komarev.com/ghpvc/?username=jimnilinux)
+
+
 Expected Beta Release date : `24 June 2023`
 
 Package Managers : `pacman`, `yay` + Jimni Repositories

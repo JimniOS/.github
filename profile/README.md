@@ -17,9 +17,10 @@ Based on Archlinux
 ## Join the Community
 - [Discord](https://discord.gg/efX2ynC6tT)
 - [Telegram](https://telegram.dog/jimnilinux)
+
 ### Features
-🙋‍♀️ A free, open and distraction free linux distro built exclusively for Students.
-🌈 Promoting Free and Equal education opportunities to all and freedom of choices.
-👩‍💻 Website - Coming Soon
-🍿 Easy to configure, maintain and install.
-🧙 Based on Archlinux
+🙋‍♀️ A free, open and distraction free linux distro built exclusively for Students.<br/>
+🌈 Promoting Free and Equal education opportunities to all and freedom of choices.<br/>
+👩‍💻 Website - Coming Soon<br/>
+🍿 Easy to configure, maintan and install.<br/>
+🧙 Based on Archlinux<br/>

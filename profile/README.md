@@ -9,7 +9,7 @@ Package Managers : `pacman`, `yay` + Jimni Repositories
 
 Desktop Environments : `KDE (Default)`, `i3-gaps`
 
-Display Managers : `LightDM (Default)`
+Display Managers : `SDDM (Default)`,`LightDM`
 
 Packages : `KDE-Minimal`
 

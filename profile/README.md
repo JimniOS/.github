@@ -11,7 +11,7 @@ Desktop Environments : `KDE (Default)`, `i3-gaps`
 
 Display Managers : `SDDM (Default)`,`LightDM`
 
-Packages : `KDE-Minimal`
+Profiles : `KDE-Minimal`
 
 Based on Archlinux
 ## Join the Community

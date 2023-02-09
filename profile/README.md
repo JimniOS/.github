@@ -22,5 +22,5 @@ Based on Archlinux
 🙋‍♀️ A free, open and distraction free linux distro built exclusively for Students.<br/>
 🌈 Promoting Free and Equal education opportunities to all and freedom of choices.<br/>
 👩‍💻 Website - Coming Soon<br/>
-🍿 Easy to configure, maintan and install.<br/>
+🍿 Easy to configure, maintain and install.<br/>
 🧙 Based on Archlinux<br/>

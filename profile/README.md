@@ -20,8 +20,8 @@ Based on Archlinux
 
 ### Features
 🙋‍♀️ A free, open and distraction free linux distro built exclusively for Students.<br/>
-🌈 Promoting Free and Equal education opportunities to all and freedom of choices.<br/>
-👩‍💻 Website - Coming Soon<br/>
+🌈 Promoting true freedom<br/>
+🌞 User-friendly and simple<br/>
 🍿 Easy to configure, maintain and install.<br/>
 🧙 Based on Archlinux<br/>
 

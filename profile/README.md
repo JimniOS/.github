@@ -24,3 +24,11 @@ Based on Archlinux
 👩‍💻 Website - Coming Soon<br/>
 🍿 Easy to configure, maintain and install.<br/>
 🧙 Based on Archlinux<br/>
+
+### Team:
+[wiz64](https://github.com/wiz64) - Founder <br>
+[natimerry](https://github.com/natimerry) - Co-Founder <br>
+pixel_furry - Co-Founder <br>
+[Tobycm](https://github.com/tobycm) - Developer <br>
+[Mullayam](https://github.com/mullayam) - Web Developer <br>
+[Granted07](https://github.com/granted07) - Designer <br>

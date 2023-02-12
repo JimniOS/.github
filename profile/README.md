@@ -25,7 +25,7 @@ Based on Archlinux
 🍿 Easy to configure, maintain and install.<br/>
 🧙 Based on Archlinux<br/>
 
-### Team:
+## Team:
 [wiz64](https://github.com/wiz64) - Founder <br>
 [natimerry](https://github.com/natimerry) - Co-Founder <br>
 pixel_furry - Co-Founder <br>

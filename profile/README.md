@@ -1,6 +1,6 @@
-## JimniLinux 
+## JimniOS
 A Linux Distribution for Students. <br>
-![](https://komarev.com/ghpvc/?username=jimnilinux)
+![](https://komarev.com/ghpvc/?username=jimnios)
 
 
 Expected Beta Release date : `24 June 2023`
@@ -15,6 +15,7 @@ Profiles : `KDE-Minimal`
 
 Based on Archlinux
 ## Join the Community
+- [Matrix (#jimnios:matrix.jimni.live)](https://matrix.to/#/#jimnios:matrix.jimni.live)
 - [Discord](https://discord.gg/efX2ynC6tT)
 - [Telegram](https://telegram.dog/jimnilinux)
 
